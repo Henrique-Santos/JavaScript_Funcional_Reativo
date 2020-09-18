@@ -1,5 +1,5 @@
 /* Callback
-A sua idéia é passar um fn como parametro para outra fn, e dipoi essa função será 
+A sua idéia é passar um fn como parametro para outra fn, e depois essa função será 
 chamada de volta. Callback está associado a um evento, que quando esse evento acontecer
 uma função é chamada de volta */
 
