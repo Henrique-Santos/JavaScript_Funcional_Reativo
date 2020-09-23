@@ -25,3 +25,4 @@ fn.lerDiretorio(caminho)
     .then(fn.agruparElementos)
     .then(fn.ordenarPorAtrubNumerico('qtde', 'desc'))
     .then(console.log)
+    
