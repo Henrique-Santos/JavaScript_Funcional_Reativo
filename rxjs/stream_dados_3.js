@@ -7,3 +7,8 @@ const sub1 = gerarNumeros.subscribe(num => {
 })
 
 setTimeout(() => sub1.unsubscribe(), 8000)
+
+/*
+    Quando chamamos um subscribe(), nós registramos uma função interessada. E a resposta
+do subscribe, nos dá uma subscription, uma subinscrição.
+*/

@@ -28,3 +28,9 @@ obs.subscribe({
         console.log(`Erro: ${msg}`)
     }
 })
+
+/*
+    A função de inscrição o subscribe(), tem argumentos ou parametros. O inscrito 
+assemelha-se a estrutura de um Observable, pois tem os mesmos 3 métodos: next, error e
+complete.
+*/
